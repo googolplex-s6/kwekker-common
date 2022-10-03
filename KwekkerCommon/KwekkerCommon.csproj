@@ -8,6 +8,7 @@
         <Title>Kwekker.Common</Title>
         <Authors>Googolplex</Authors>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <RepositoryUrl>https://github.com/googolplex-s6/kwekker-common</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
